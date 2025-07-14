@@ -1,7 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Hi 👋, I'm Akash Kumar
+**A passionate Full-Stack Developer || Cloud Enthusiast || Problem Solver from India**
 
+Email Me 👉 ✉️ **kumaraakash9431086758@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+- 🔭 **I’m currently working on:** Problem Solving Skills
+- 🌱 **I’m currently learning:** LLM integration in backend systems and scalable cloud deployments
+- 👯 **I’m looking to collaborate on:** Open-source full-stack apps, real-time systems, or DevTools
+- 🤔 **I’m looking for help with:** Optimizing backend performance and scalable architecture design
+- 💬 **Ask me about:** Node.js, Express, React, React Native, PostgreSQL, Cloud deployment, or Full-Stack App Architecture
+- 📫 **How to reach me:**  kumaraakash9431086758@gmail.com
+- ⚡ **Fun fact:** I am a full time Learner
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Akash-1611&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-kumar-238809258) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaraakash9431086758@gmail.com) 
 
@@ -11,9 +23,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Akash-1611&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Akash-1611&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-1611&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akash-1611&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Akash-1611&icon=0&color=0)](https://visitcount.itsvg.in)
