@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **kumaraakash9431086758@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Problem Solving Skills
-- 🌱 **I’m currently learning:** LLM integration in backend systems and scalable cloud deployments
+- 🌱 **I’m currently learning:** LLM integration in backend systems and scalable cloud deployment
 - 👯 **I’m looking to collaborate on:** Open-source full-stack apps, real-time systems, or DevTools
 - 🤔 **I’m looking for help with:** Optimizing backend performance and scalable architecture design
 - 💬 **Ask me about:** Node.js, Express, React, React Native, PostgreSQL, Cloud deployment, or Full-Stack App Architecture
