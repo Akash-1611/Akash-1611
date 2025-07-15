@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **kumaraakash9431086758@gmail.com** For Collaboration/Proje
 - 💬 **Ask me about:** Node.js, Express, React, React Native, PostgreSQL, Cloud deployment, or Full-Stack App Architecture
 - 📫 **How to reach me:**  kumaraakash9431086758@gmail.com
 - ⚡ **Fun fact:** I am a full time Learner
-- ⚡ **check my resume here** https://drive.google.com/file/d/1fEoojOvihRFTQf-3FSzwp22vkyNK6k0Z/view?usp=sharing
+- ⚡ **Check my resume here:** https://drive.google.com/file/d/1fEoojOvihRFTQf-3FSzwp22vkyNK6k0Z/view?usp=sharing
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akash-1611&theme=radical&no-frame=false&no-bg=true&margin-w=4)
